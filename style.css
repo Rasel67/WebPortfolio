@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+   
+
+
+.top-banner{
+    height: 60px;
+}
+.top-banner ul{
+    padding: 0;
+    margin-right: 20px;
+    list-style: none;
+    text-align: right;
+}
+.top-banner ul li{
+    display: inline-block;
+
+}
+.top-banner ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 10px;
+
+
+}
+img{
+    width: 100%;
+}
+
+h1{
+    font-size: 50px;
+}
+.hello{
+    color: red;
+}
+.name{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 60px;
+    
+}
+.about{
+    font-size:40px ;
+    color: teal;
+   
+}
+.link-button{
+    
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.cv{
+    padding: 15px 20px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato) ;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    
+}
+.icon{
+    margin-top: 30px;
+    color:white;
+}
+
+.banner{
+   height: 700px;
+   
+}
+.project{
+    
+    font-size: 30px;
+    text-align: center;
+    font-weight: 700;
+    color: tomato;
+   
+   background-color: black;
+   height: 700px;
+
+}
+
+h3{
+    padding-top: 100PX;
+    padding-bottom: 50px;
+}
+.third-width{
+    width: 30%;
+    float: left;
+   
+}
+.single-one{
+    box-shadow: 10px 10px 40px gray;
+    margin-left:2%;
+    height:30%;
+  
+}
+
+h4{
+    border: 1px solid blue;
+    
+    height:100px;
+    margin: 120px;
+    background-color: blue;
+    color: white;
+    padding-left: 50px;
+    padding-top: 60px;
+    border-radius: 15px;
+    font-size: 30px;
+
+}
+.left{
+   color:chocolate
+}
+
+h3{
+    
+    text-align: center;
+    font-size: 30px;
+    color: rgb(219, 108, 11);
+    
+
+}
+.latest{
+    color: brown;
+}
+.portfolio{
+    background-color:gray ;
+    height: 700px;
+}
+.third-width{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    box-shadow: 10px 10px 40px rgb(114, 114, 212);
+    height: 50%;
+}
+h5{
+    font-size: 20px;
+    color: brown;
+    margin-left: 37px;
+}
+.last-button{
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    margin-left:300px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-decoration: none;
+  
+}
+   
+    
